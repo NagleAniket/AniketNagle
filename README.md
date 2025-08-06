@@ -63,7 +63,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket%20Nagle-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nagle-aniket/)  
-[![Email](https://img.shields.io/badge/Email-aniketnagleb1%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nagleaniket@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-nagleaniket@gmail.com-red?style=flat-square&logo=gmail)](mailto:nagleaniket@gmail.com)  
 
 ---
 
