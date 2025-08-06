@@ -9,8 +9,9 @@
 
 ### 👨‍💻 About Me
 - 💼 **10+ years** in Production/Application Support (Banking/Risk domain)  
+- 💼 Current Role:** L2 Production Support Engineer at TCS (Royal Bank of Canada)
 - 🚀 Currently transitioning into **DevOps and Cloud Engineering**  
-- 🛠️ Skilled in **Linux, SQL, ITIL, Monitoring (Geneos, AppDynamics), CI/CD (Jenkins), Docker, Kubernetes, Terraform, AWS/Azure**  
+- 🛠️ Skilled in **Linux, SQL, ITIL, Monitoring (Geneos) 
 - 📚 Learning **DevSecOps and GitHub Actions** to integrate security into pipelines  
 - 🎯 Goal: Automate, monitor, and scale cloud-native solutions  
 
