@@ -1,7 +1,7 @@
 <!-- Header with Greeting -->
 <h1 align="center">Hi 👋, I'm Aniket Nagle</h1>
 
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&width=435&lines=10%2B+years+in+Production+Support+Engineer" alt="Typing SVG" /></a></h2>
+<h2 align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&width=1000&lines=10%2B+years+Exp.+in+Production%2FApplication+Support" alt="Typing SVG" /></a></a></a></h2>
 
 <h3 align="center">Production Support Engineer | Aspiring DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
