@@ -56,6 +56,7 @@
 
 ### 🚀 Current Learning & Goals (2025)
 
+- ![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?logo=amazonaws) **AWS Solutions Architect - Associate** (Completed)  
 - ![AWS](https://img.shields.io/badge/AWS-DevOps%20Certification-orange?logo=amazonaws) **AWS DevOps Engineer Certification** (In Progress)  
 - ![ITIL](https://img.shields.io/badge/ITIL-Foundation-green)
 
