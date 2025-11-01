@@ -15,6 +15,11 @@
 - 🎯 Goal: Automate, monitor, and scale cloud-native solutions  
 
 ---
+### 🚀 My Cloud Projects
+- [AWS Cloud POC Projects](https://github.com/NagleAniket/aws-cloud-poc-projects) –  
+  Includes 2-tier app architecture, serverless workflows, DR simulations, and monitoring dashboards.
+
+---
 
 ### 🛠 Tech Skills
 
